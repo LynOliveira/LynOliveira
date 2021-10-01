@@ -1,16 +1,35 @@
-### Hi there 👋
+### Oi, eu sou a Lyn!
 
-<!--
-**LynOliveira/LynOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐍 Estudando Python
+- 🎨 Estudando Design
+- 📧 Contato: evelyn.oliveira.rjx@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+<div align="center">
+  <a href="https://github.com/LynOliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LynOliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynOliveira&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Lyn-PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Lyn-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+  <img align="center" alt="Lyn-AI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Lyn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lyn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lyn-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   
+  ##
+    
+  <img align="right" alt="Lyn-Pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/6cb4bb3d72fe00912c13402cb82681bd/fafbd7f026f8017b-9d/s540x810/b6f5f8aa395d8ac383f5c1c9e8e247a6f988723e.png">
+</div>
+  
+  <div> 
+  <a href="https://www.youtube.com/channel/UCIQMkR4Qop8U1dSITDo5zmw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/aflordevangogh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/xolishka" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href="https://twitter.com/aflordevangogh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/evelyn-oliveira-29488b211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+ 
+</div>
