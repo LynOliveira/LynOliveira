@@ -20,7 +20,7 @@
    
   ##
     
-  <img align="right" alt="Lyn-Pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/6cb4bb3d72fe00912c13402cb82681bd/fafbd7f026f8017b-9d/s540x810/b6f5f8aa395d8ac383f5c1c9e8e247a6f988723e.png">
+  <img align="right" alt="Lyn-Pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/5ba2dbcc3532737b0763e3347c0961c9.gif">
 </div>
   
   <div> 
