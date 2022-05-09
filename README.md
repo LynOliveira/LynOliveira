@@ -1,8 +1,9 @@
 ### Oi, eu sou a Lyn!
 
-- 🐍 Estudando Python
-- 🎨 Estudando Design
-- 📧 Contato: evelyn.oliveira.rjx@gmail.com
+- 🎓 ≀Engenharia de Software
+- 👩🏽‍💻 ≀Estudante de Programação e Design 💚
+- 📌 ≀Rio de Janeiro/São Paulo
+- 📧 ≀Redes Sociais: https://beacons.ai/aflordevangogh
 
  <div>
 <div align="center">
